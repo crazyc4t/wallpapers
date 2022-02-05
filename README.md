@@ -4,6 +4,12 @@ This is a collection of wallpapers of mine, heavily inspired by dt's wallpaper [
 
 The majority of the wallpapers are about nature, drawings, anime girls of course (VERY safe for work), and arch linux!
 
+## Ownership
+I don't know if there's any type of copyright on this images, just enjoy them!
+
+## Sources
+[wallhaven](https://wallhaven.cc/)
+
 ## Some screenshots
 ![nitrogenshot0](shotofwallpapers0.png)
 ![nitrogenshot1](shotofwallpapers1.png)
