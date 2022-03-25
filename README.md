@@ -11,7 +11,7 @@ I don't know if there's any type of copyright on this images, just enjoy them!
 [wallhaven](https://wallhaven.cc/)
 
 ## Some screenshots
-![nitrogenshot0](shotofwallpapers0.png)
-![nitrogenshot1](shotofwallpapers1.png)
-![nitrogenshot2](shotofwallpapers2.png)
-![nitrogenshot3](shotofwallpapers3.png)
+![nitrogenshot0](Docs/shotofwallpapers0.png)
+![nitrogenshot1](Docs/shotofwallpapers1.png)
+![nitrogenshot2](Docs/shotofwallpapers2.png)
+![nitrogenshot3](Docs/shotofwallpapers3.png)
